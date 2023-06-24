@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738887935883",
+    "project_id": "chama-wallet-6789f",
+    "storage_bucket": "chama-wallet-6789f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738887935883:android:b1aaf6ff0480748484318e",
+        "android_client_info": {
+          "package_name": "com.example.chamait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738887935883-on34fq2jgdrfq4kg162uibs7brkouiv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chamait",
+            "certificate_hash": "6e130301a66ca4f835df5595d87a52f0964b5a8b"
+          }
+        },
+        {
+          "client_id": "738887935883-d1jou8eabpedk25fp3vj8lu3i6cgnm6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU52_84tpLP36YXgfcwAJ_RinFaw5OCLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738887935883-d1jou8eabpedk25fp3vj8lu3i6cgnm6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
